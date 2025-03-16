@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Dev\\app_before\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{810B17FB-74AD-4D14-8893-ECAC2C293EEB}|Notes.csproj|f:\\dev\\app_before\\viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810B17FB-74AD-4D14-8893-ECAC2C293EEB}|Notes.csproj|solutionrelative:viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810B17FB-74AD-4D14-8893-ECAC2C293EEB}|Notes.csproj|f:\\dev\\app_before\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810B17FB-74AD-4D14-8893-ECAC2C293EEB}|Notes.csproj|solutionrelative:views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810B17FB-74AD-4D14-8893-ECAC2C293EEB}|Notes.csproj|f:\\dev\\app_before\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{810B17FB-74AD-4D14-8893-ECAC2C293EEB}|Notes.csproj|solutionrelative:views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesViewModel.cs",
+              "DocumentMoniker": "F:\\Dev\\app_before\\ViewModels\\NotesViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\NotesViewModel.cs",
+              "ToolTip": "F:\\Dev\\app_before\\ViewModels\\NotesViewModel.cs",
+              "RelativeToolTip": "ViewModels\\NotesViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:58:10.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllNotesPage.xaml",
+              "DocumentMoniker": "F:\\Dev\\app_before\\Views\\AllNotesPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AllNotesPage.xaml",
+              "ToolTip": "F:\\Dev\\app_before\\Views\\AllNotesPage.xaml",
+              "RelativeToolTip": "Views\\AllNotesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T02:58:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllNotesPage.xaml.cs",
+              "DocumentMoniker": "F:\\Dev\\app_before\\Views\\AllNotesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AllNotesPage.xaml.cs",
+              "ToolTip": "F:\\Dev\\app_before\\Views\\AllNotesPage.xaml.cs",
+              "RelativeToolTip": "Views\\AllNotesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:58:15.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
