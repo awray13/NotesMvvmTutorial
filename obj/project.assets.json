@@ -33725,11 +33725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dev\\app_before\\Notes.csproj",
+      "projectUniqueName": "F:\\Dev\\NotesMvvmTutorial\\Notes.csproj",
       "projectName": "Notes",
-      "projectPath": "F:\\Dev\\app_before\\Notes.csproj",
+      "projectPath": "F:\\Dev\\NotesMvvmTutorial\\Notes.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\Dev\\app_before\\obj\\",
+      "outputPath": "F:\\Dev\\NotesMvvmTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

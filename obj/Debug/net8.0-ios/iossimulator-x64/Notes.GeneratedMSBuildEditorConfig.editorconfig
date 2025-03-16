@@ -17,49 +17,49 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Notes
-build_property.ProjectDir = F:\Dev\app_before\
+build_property.ProjectDir = F:\Dev\NotesMvvmTutorial\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[F:/Dev/app_before/App.xaml]
+[F:/Dev/NotesMvvmTutorial/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[F:/Dev/app_before/AppShell.xaml]
+[F:/Dev/NotesMvvmTutorial/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[F:/Dev/app_before/Resources/Styles/Colors.xaml]
+[F:/Dev/NotesMvvmTutorial/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[F:/Dev/app_before/Resources/Styles/Styles.xaml]
+[F:/Dev/NotesMvvmTutorial/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[F:/Dev/app_before/Views/AboutPage.xaml]
+[F:/Dev/NotesMvvmTutorial/Views/AboutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.AboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\AboutPage.xaml
 
-[F:/Dev/app_before/Views/AllNotesPage.xaml]
+[F:/Dev/NotesMvvmTutorial/Views/AllNotesPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.AllNotesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\AllNotesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\AllNotesPage.xaml
 
-[F:/Dev/app_before/Views/NotePage.xaml]
+[F:/Dev/NotesMvvmTutorial/Views/NotePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Notes.Views.NotePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\NotePage.xaml

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gy+pawiDhpU=",
+  "dgSpecHash": "988UekJNqi4=",
   "success": true,
-  "projectFilePath": "F:\\Dev\\app_before\\Notes.csproj",
+  "projectFilePath": "F:\\Dev\\NotesMvvmTutorial\\Notes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
